@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1649171684 source:c:\users\hiago\onedrive\Área de trabalho (1)\eng comp\projetos codeblocks\aed 1\trabalho-aed1\trabalho_aed1_comed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1649460387 source:c:\users\hiago\onedrive\Área de trabalho (1)\trabalho de aed\codigo-com-ed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,8 +1,8 @@
-/*Universidade Federal do Vale do S„o Francisco
+/*Universidade Federal do Vale do S√£o Francisco
 Trabalho de Algoritimos e Estruturas de Dados
-Engenharia genÈtica aplicadas as leis de Mendel
+Engenharia gen√©tica aplicadas as leis de Mendel
 Discentes: Hiago Moura Carvalho e Luiz Fernando Barbosa da Silva
-Docente: Professor Marcelo Santos Linder*/
+Docente: Ana Em√≠lia de Melo Queiroz*/
 
 
 #include <stdio.h>
